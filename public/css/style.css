@@ -1,0 +1,7 @@
+.hero {
+    background-image: url('../images/tech.png');
+    height: 250px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
